@@ -1,0 +1,5 @@
+2025/06/25-17:15:05.605 4d70 Creating DB C:\code-python\pythonProject\JingDongProject\MyJDProfile_Stealth\Default\Local Storage\leveldb since it was missing.
+2025/06/25-17:15:05.617 4d70 Reusing MANIFEST C:\code-python\pythonProject\JingDongProject\MyJDProfile_Stealth\Default\Local Storage\leveldb/MANIFEST-000001
+2025/06/25-17:16:21.238 4d70 Level-0 table #5: started
+2025/06/25-17:16:21.242 4d70 Level-0 table #5: 90394 bytes OK
+2025/06/25-17:16:21.244 4d70 Delete type=0 #3

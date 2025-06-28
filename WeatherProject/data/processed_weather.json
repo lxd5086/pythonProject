@@ -1,0 +1,162 @@
+{
+  "processed_data": [
+    {
+      "content": NaN,
+      "crawl_time": "2025-06-24 17:26:21",
+      "date": "24日（今天）",
+      "source": "china_weather",
+      "temp_high": 26.0,
+      "temp_low": "19℃",
+      "weather": "阴",
+      "wind": "<3级",
+      "parsed_date": "2025-06-24",
+      "temp_high_cleaned": 26.0,
+      "temp_low_cleaned": 19.0,
+      "weather_condition": "overcast",
+      "weather_description": "阴",
+      "processed_time": "2025-06-24 17:26:30"
+    },
+    {
+      "content": NaN,
+      "crawl_time": "2025-06-24 17:26:21",
+      "date": "25日（明天）",
+      "source": "china_weather",
+      "temp_high": 29.0,
+      "temp_low": "23℃",
+      "weather": "阴",
+      "wind": "<3级",
+      "parsed_date": "2025-06-25",
+      "temp_high_cleaned": 29.0,
+      "temp_low_cleaned": 23.0,
+      "weather_condition": "overcast",
+      "weather_description": "阴",
+      "processed_time": "2025-06-24 17:26:30"
+    },
+    {
+      "content": NaN,
+      "crawl_time": "2025-06-24 17:26:21",
+      "date": "26日（后天）",
+      "source": "china_weather",
+      "temp_high": 34.0,
+      "temp_low": "26℃",
+      "weather": "阴",
+      "wind": "<3级",
+      "parsed_date": "2025-06-26",
+      "temp_high_cleaned": 34.0,
+      "temp_low_cleaned": 26.0,
+      "weather_condition": "overcast",
+      "weather_description": "阴",
+      "processed_time": "2025-06-24 17:26:30"
+    },
+    {
+      "content": NaN,
+      "crawl_time": "2025-06-24 17:26:21",
+      "date": "27日（周五）",
+      "source": "china_weather",
+      "temp_high": 35.0,
+      "temp_low": "26℃",
+      "weather": "小雨",
+      "wind": "<3级",
+      "parsed_date": "2025-06-27",
+      "temp_high_cleaned": 35.0,
+      "temp_low_cleaned": 26.0,
+      "weather_condition": "light_rain",
+      "weather_description": "小雨",
+      "processed_time": "2025-06-24 17:26:30"
+    },
+    {
+      "content": NaN,
+      "crawl_time": "2025-06-24 17:26:21",
+      "date": "28日（周六）",
+      "source": "china_weather",
+      "temp_high": 34.0,
+      "temp_low": "26℃",
+      "weather": "小雨转阴",
+      "wind": "<3级",
+      "parsed_date": "2025-06-28",
+      "temp_high_cleaned": 34.0,
+      "temp_low_cleaned": 26.0,
+      "weather_condition": "overcast",
+      "weather_description": "小雨转阴",
+      "processed_time": "2025-06-24 17:26:30"
+    },
+    {
+      "content": NaN,
+      "crawl_time": "2025-06-24 17:26:21",
+      "date": "29日（周日）",
+      "source": "china_weather",
+      "temp_high": 33.0,
+      "temp_low": "26℃",
+      "weather": "阴",
+      "wind": "3-4级",
+      "parsed_date": "2025-06-29",
+      "temp_high_cleaned": 33.0,
+      "temp_low_cleaned": 26.0,
+      "weather_condition": "overcast",
+      "weather_description": "阴",
+      "processed_time": "2025-06-24 17:26:30"
+    },
+    {
+      "content": NaN,
+      "crawl_time": "2025-06-24 17:26:21",
+      "date": "30日（周一）",
+      "source": "china_weather",
+      "temp_high": 33.0,
+      "temp_low": "26℃",
+      "weather": "阴",
+      "wind": "3-4级",
+      "parsed_date": "2025-06-30",
+      "temp_high_cleaned": 33.0,
+      "temp_low_cleaned": 26.0,
+      "weather_condition": "overcast",
+      "weather_description": "阴",
+      "processed_time": "2025-06-24 17:26:30"
+    },
+    {
+      "content": "预报7天预报10天预报15天预报今天阴19° / 26°东北风1级33 优明天阴23° / 29°东南风1级44 优后天阴26° / 34°东南风1级44 优",
+      "crawl_time": "2025-06-24 17:26:28",
+      "date": NaN,
+      "source": "moji",
+      "temp_high": NaN,
+      "temp_low": NaN,
+      "weather": NaN,
+      "wind": NaN,
+      "parsed_date": "2025-06-24",
+      "temp_high_cleaned": NaN,
+      "temp_low_cleaned": NaN,
+      "weather_condition": "",
+      "weather_description": "",
+      "processed_time": "2025-06-24 17:26:30"
+    }
+  ],
+  "statistics": {
+    "total_records": 8,
+    "data_sources": {
+      "china_weather": 7,
+      "moji": 1
+    },
+    "temp_high_cleaned_stats": {
+      "mean": 32.0,
+      "min": 26,
+      "max": 35,
+      "std": 3.27
+    },
+    "temp_low_cleaned_stats": {
+      "mean": 24.57,
+      "min": 19,
+      "max": 26,
+      "std": 2.7
+    },
+    "weather_conditions": {
+      "overcast": 6,
+      "light_rain": 1,
+      "": 1
+    },
+    "date_range": {
+      "start": "2025-06-24",
+      "end": "2025-06-30"
+    }
+  },
+  "processed_time": "2025-06-24 17:26:30",
+  "summary": "浦东新区天气预报:\n2025-06-24: 阴 26°C/19°C\n2025-06-25: 阴 29°C/23°C\n2025-06-26: 阴 34°C/26°C\n2025-06-27: 小雨 35°C/26°C\n2025-06-28: 小雨转阴 34°C/26°C\n2025-06-29: 阴 33°C/26°C"
+}
